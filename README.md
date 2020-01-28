@@ -1,4 +1,4 @@
-# Angular 8 base starter remplate with routes implemented
+# Angular 8 starter remplate with routes implemented
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
